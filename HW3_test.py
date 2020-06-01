@@ -1,6 +1,3 @@
-""" CLI program answers to test HW3 homework """
-# Diane Chen
-
 import argparse
 from HW3 import words_containing, len_safe, unique
 
